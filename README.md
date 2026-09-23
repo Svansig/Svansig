@@ -1,16 +1,14 @@
-## Hi there 👋
+# Steve Budarz
 
-<!--
-**Svansig/Svansig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend and platform engineer working primarily with TypeScript, Node.js,
+Kafka, APIs, and distributed systems.
 
-Here are some ideas to get you started:
+I tend to work around the boundaries between systems: API design, messaging,
+developer tooling, infrastructure, observability, and figuring out why
+something that worked perfectly in development is now on fire.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on:
+- Distributed systems and event-driven backend patterns
+- Kubernetes and self-hosted infrastructure
+- Local AI tooling
+- Embedded systems when I should probably be doing something else
